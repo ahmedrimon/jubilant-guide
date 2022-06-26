@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Diagramm";
+  src: url("fonts/Diagramm-Regular.ttf")
+}
+body {
+     background-color: #d3d2d5;
+}
+.diagramm {
+     font-family: "Diagramm"
+}
+.responsive {
+     max-width: 100%;
+     height: auto;
+}
